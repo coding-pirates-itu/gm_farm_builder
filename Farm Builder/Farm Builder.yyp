@@ -1,0 +1,44 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Farm Builder",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":0,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Fence","folderPath":"folders/Fence.yy","name":"Fence","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Game","folderPath":"folders/Game.yy","name":"Game","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2026.0.0.16",
+  },
+  "name":"Farm Builder",
+  "resources":[
+    {"id":{"name":"fnt_Money","path":"fonts/fnt_Money/fnt_Money.yy",},},
+    {"id":{"name":"o_Empty","path":"objects/o_Empty/o_Empty.yy",},},
+    {"id":{"name":"o_GameController","path":"objects/o_GameController/o_GameController.yy",},},
+    {"id":{"name":"o_Money","path":"objects/o_Money/o_Money.yy",},},
+    {"id":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
+    {"id":{"name":"s_Empty","path":"sprites/s_Empty/s_Empty.yy",},},
+    {"id":{"name":"s_Money","path":"sprites/s_Money/s_Money.yy",},},
+    {"id":{"name":"tss_Farm","path":"sprites/tss_Farm/tss_Farm.yy",},},
+    {"id":{"name":"ts_Farm","path":"tilesets/ts_Farm/ts_Farm.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
