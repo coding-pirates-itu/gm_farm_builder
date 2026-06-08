@@ -35,13 +35,13 @@
     "resourceVersion":"2.0",
     "right":6,
     "tileMode":[
-      1,
+      0,
       0,
       0,
       0,
       0,
     ],
-    "top":6,
+    "top":50,
   },
   "origin":9,
   "parent":{
