@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"o_Empty",
-  "eventList":[],
+  "%Name":"o_Field",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"o_Empty",
+  "name":"o_Field",
   "overriddenProperties":[],
   "parent":{
     "name":"Tiles",
@@ -23,7 +25,11 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"Growing","filters":[
+        "GMObject",
+      ],"listItems":[],"multiselect":false,"name":"Growing","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,

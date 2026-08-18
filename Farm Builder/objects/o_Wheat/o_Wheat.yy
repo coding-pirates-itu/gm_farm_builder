@@ -6,7 +6,9 @@
   ],
   "managed":true,
   "name":"o_Wheat",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_CropBase","path":"objects/o_CropBase/o_CropBase.yy",},"propertyId":{"name":"BuySprite","path":"objects/o_CropBase/o_CropBase.yy",},"resource":{"name":"s_BuyWheat","path":"sprites/s_BuyWheat/s_BuyWheat.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"s_BuyWheat",},
+  ],
   "parent":{
     "name":"Crops",
     "path":"folders/Crops.yy",

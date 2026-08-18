@@ -1,3 +1,9 @@
+function Select(buyObject)
+{
+    SelectedCrop = buyObject.Crop;
+    SelectedPrice = buyObject.BuyPrice;
+}
+
 function AddWheat(amount)
 {
     Wheat += amount;
@@ -14,3 +20,4 @@ function AddPumpkins(amount)
 }
 
 StartTime = 0;
+SelectedCrop = noone;

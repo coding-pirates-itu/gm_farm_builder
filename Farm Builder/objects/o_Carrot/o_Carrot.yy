@@ -7,9 +7,10 @@
   "managed":true,
   "name":"o_Carrot",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_CropBase","path":"objects/o_CropBase/o_CropBase.yy",},"propertyId":{"name":"BuyCost","path":"objects/o_CropBase/o_CropBase.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"15",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_CropBase","path":"objects/o_CropBase/o_CropBase.yy",},"propertyId":{"name":"SellCost","path":"objects/o_CropBase/o_CropBase.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"39",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_CropBase","path":"objects/o_CropBase/o_CropBase.yy",},"propertyId":{"name":"BuyPrice","path":"objects/o_CropBase/o_CropBase.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"15",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_CropBase","path":"objects/o_CropBase/o_CropBase.yy",},"propertyId":{"name":"SellPrice","path":"objects/o_CropBase/o_CropBase.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"39",},
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_CropBase","path":"objects/o_CropBase/o_CropBase.yy",},"propertyId":{"name":"FramesPerStage","path":"objects/o_CropBase/o_CropBase.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"3",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"o_CropBase","path":"objects/o_CropBase/o_CropBase.yy",},"propertyId":{"name":"BuySprite","path":"objects/o_CropBase/o_CropBase.yy",},"resource":{"name":"s_BuyCarrot","path":"sprites/s_BuyCarrot/s_BuyCarrot.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"s_BuyCarrot",},
   ],
   "parent":{
     "name":"Crops",
