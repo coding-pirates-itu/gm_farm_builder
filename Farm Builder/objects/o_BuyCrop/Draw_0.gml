@@ -2,7 +2,7 @@ if (o_GameController.SelectedCrop == Crop)
 {
     var border = 2;
     
-    if (o_GameController.Money >= BuyPrice)
+    if (o_GameController.Money >= BuyPrice + o_GameController.WaterPrice)
     {
         draw_set_colour(SelectColour);
     }

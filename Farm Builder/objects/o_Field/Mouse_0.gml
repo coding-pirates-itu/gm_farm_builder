@@ -1,7 +1,7 @@
 if (o_GameController.SelectedCrop == noone) exit; 
 if (Growing != noone) exit;
     
-if (o_GameController.Money >= o_GameController.SelectedPrice)
+if (o_GameController.Money >= o_GameController.SelectedPrice + o_GameController.WaterPrice)
 {
     o_GameController.Money -= o_GameController.SelectedPrice;
     
