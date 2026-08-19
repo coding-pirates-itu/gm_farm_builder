@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"o_Order",
-  "eventList":[],
+  "%Name":"o_OrderCarrots",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"o_Order",
+  "name":"o_OrderCarrots",
   "overriddenProperties":[],
   "parent":{
     "name":"Order",
@@ -23,13 +25,15 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"v2","%Name":"Foreground","filters":[],"listItems":[],"multiselect":false,"name":"Foreground","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"$FF00AEFF","varType":7,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"s_Order",
-    "path":"sprites/s_Order/s_Order.yy",
+    "name":"s_PriceBg",
+    "path":"sprites/s_PriceBg/s_PriceBg.yy",
   },
   "spriteMaskId":null,
   "visible":true,
