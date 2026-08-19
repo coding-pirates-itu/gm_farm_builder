@@ -7,4 +7,5 @@ if (o_GameController.Money >= o_GameController.SelectedPrice + o_GameController.
     
     Growing = instance_create_layer(x, y, "Crops", o_GameController.SelectedCrop);
     Growing.Land = self;
+    audio_play_sound(snd_Buy, 1, false);
 }

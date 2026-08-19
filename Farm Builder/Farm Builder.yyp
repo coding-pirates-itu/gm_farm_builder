@@ -26,6 +26,7 @@
   "name":"Farm Builder",
   "resources":[
     {"id":{"name":"fnt_Money","path":"fonts/fnt_Money/fnt_Money.yy",},},
+    {"id":{"name":"fnt_Price","path":"fonts/fnt_Price/fnt_Price.yy",},},
     {"id":{"name":"o_BuyCarrot","path":"objects/o_BuyCarrot/o_BuyCarrot.yy",},},
     {"id":{"name":"o_BuyCrop","path":"objects/o_BuyCrop/o_BuyCrop.yy",},},
     {"id":{"name":"o_BuyPumpkin","path":"objects/o_BuyPumpkin/o_BuyPumpkin.yy",},},
@@ -42,6 +43,9 @@
     {"id":{"name":"o_Time","path":"objects/o_Time/o_Time.yy",},},
     {"id":{"name":"o_Wheat","path":"objects/o_Wheat/o_Wheat.yy",},},
     {"id":{"name":"rm_Level1","path":"rooms/rm_Level1/rm_Level1.yy",},},
+    {"id":{"name":"snd_Buy","path":"sounds/snd_Buy/snd_Buy.yy",},},
+    {"id":{"name":"snd_Sell","path":"sounds/snd_Sell/snd_Sell.yy",},},
+    {"id":{"name":"snd_Water","path":"sounds/snd_Water/snd_Water.yy",},},
     {"id":{"name":"s_BuyCarrot","path":"sprites/s_BuyCarrot/s_BuyCarrot.yy",},},
     {"id":{"name":"s_BuyPumpkin","path":"sprites/s_BuyPumpkin/s_BuyPumpkin.yy",},},
     {"id":{"name":"s_BuyWheat","path":"sprites/s_BuyWheat/s_BuyWheat.yy",},},

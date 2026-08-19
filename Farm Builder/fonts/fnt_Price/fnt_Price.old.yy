@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fnt_Money",
+  "%Name":"fnt_Price",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":51,
@@ -200,7 +200,7 @@
   "last":0,
   "lineHeight":63,
   "maintainGms1Font":false,
-  "name":"fnt_Money",
+  "name":"fnt_Price",
   "parent":{
     "name":"Game",
     "path":"folders/Game.yy",
