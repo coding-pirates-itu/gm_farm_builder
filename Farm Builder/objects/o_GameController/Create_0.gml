@@ -33,4 +33,5 @@ function CheckWin()
 
 StartTime = 0;
 SelectedCrop = noone;
-Order = { Wheat: 5, Carrots: 3, Pumpkins: 1 }
+Order = { Wheat: 20, Carrots: 6, Pumpkins: 0, Time: 180 }
+Order2 = { Wheat: 15, Carrots: 10, Pumpkins: 6, Time: 360 }
